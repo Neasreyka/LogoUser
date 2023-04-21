@@ -17,7 +17,7 @@ var jwDefaults = {
   "height": 260,
   "key": "Ug6L/QzF3mW66JkT5amZCI1x441WN3BtaPxphb++YfkMZa7tjVtCuL6dODqGAJlA",
   "logo": {
-    "file": "https://i.imgur.com/xNHS5iy.png",
+    "file": "https://blogger.googleusercontent.com/img/a/AVvXsEi8-CM8WetqU03RRJ6xrgS0QLFC-wTw-aySaSAhSvYcapGHdqQfIhv9Bu9RIxhdG-gwZHoiaKyEYvPkMit4ThpvmSGlTxDvYdlNnh2nVyWBLyAVyL9YnLsUPbzT3AO6ushh0W-Rrp2RB1pvBoO-gv28jSSHkYdoTrpkbi8XFu6o8nGvQebYhQd9bMYhMg=s1600",
     link: "https://www.kamakh.com",
     "hide": false,
     "margin": "10",
