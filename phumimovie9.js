@@ -18,7 +18,7 @@ var jwDefaults = {
   "key": "Ug6L/QzF3mW66JkT5amZCI1x441WN3BtaPxphb++YfkMZa7tjVtCuL6dODqGAJlA",
   "logo": {
     "file": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQaVAxxN_r1Q98w4eui65JkWqImLGvTJC9uUN8d2uyOlYaxKrWNynqVWIB6YH-UciLycNt34K3ziPeix33ccpVWaEUGcuAFMLZAXqRCW7GxaTbv2YUCyY4lme2GR6vuylXVb50nzN342kaHme7m7gk25cYjfSCt_yX1XLvRH2TsDWROZlkSjacZfHWrw/s1600/phumimovies9.com.png",
-    link: "https://www.kamakh.com",
+    link: "/",
     "hide": false,
     "margin": "10",
     "position": "top-right"
