@@ -18,7 +18,7 @@ var jwDefaults = {
   "key": "Ug6L/QzF3mW66JkT5amZCI1x441WN3BtaPxphb++YfkMZa7tjVtCuL6dODqGAJlA",
   "logo": {
     "file": "https://i.imgur.com/XEmZOyr.png",
-    link: "https://www.kamakh.com",
+    link: "/",
     "hide": false,
     "margin": "10",
     "position": "top-right"
